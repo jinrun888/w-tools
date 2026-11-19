@@ -1,7 +1,7 @@
 {
-  "version": "1.7.7",
-  "notes": "1.7.7: pnpm store/sqlite crash -> junction fallback, store under writable dir.",
-  "url": "https://github.com/jinrun888/w-tools/releases/download/v1.7.7/Witch-Setup-1.7.7.exe",
-  "sha256": "FC96F7ADCCC35404CA0B8A1CE7A0FF62C46C8122BDC39E80EA8CB187C03B1F30",
-  "size": 82959315
+  "version": "1.7.9",
+  "notes": "1.7.9: all MCP dependencies bundled (no npm, no network needed).",
+  "url": "https://github.com/jinrun888/w-tools/releases/download/v1.7.9/Witch-Setup-1.7.9.exe",
+  "sha256": "0BCB10CF8848EB0308463AC429D89A33B2C045BF4E81A0A5440F5F31DCD675D3",
+  "size": 114430379
 }
