@@ -1,7 +1,7 @@
 {
-  "version": "1.7.10",
-  "notes": "1.7.10: bundled MCP dependencies (zero npm), mirror-aware update check.",
-  "url": "https://github.com/jinrun888/w-tools/releases/download/v1.7.10/Witch-Setup-1.7.10.exe",
-  "sha256": "23415B94A2A610DC1ECFC6E87FA57EB93586916EDACFFDC1D4518511C6396C6C",
-  "size": 114430675
+  "version": "1.7.11",
+  "notes": "1.7.11: update check reads GitHub API (no CDN cache lag) + bundled MCP deps.",
+  "url": "https://github.com/jinrun888/w-tools/releases/download/v1.7.11/Witch-Setup-1.7.11.exe",
+  "sha256": "0A7F3D03CC0C66B2E9437E54313854B8295D1830E19ED7BCB04CE91A1D7C198A",
+  "size": 114430928
 }
