@@ -1,7 +1,7 @@
 {
-  "version": "1.7.0",
-  "notes": "1.7.0: methodology importer, KB ingest, kernel 1.8.1.",
-  "url": "https://github.com/jinrun888/w-tools/releases/download/v1.7.0/Witch-Setup-1.7.0.exe",
-  "sha256": "5F712E57BA965C0DD564B2FBB8CADB74275D7E73CCD9C22616321E843AB3DEAC",
-  "size": 82937625
+  "version": "1.7.1",
+  "notes": "1.7.1: KB-first kernel 1.9.1, citation required, methodology importer.",
+  "url": "https://github.com/jinrun888/w-tools/releases/download/v1.7.1/Witch-Setup-1.7.1.exe",
+  "sha256": "7FDE02F12E3CBCCD5E71A1D4F7204EAB316D9FB18C43EA1E94427EBAF253B029",
+  "size": 82944098
 }
