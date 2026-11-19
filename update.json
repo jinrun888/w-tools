@@ -1,7 +1,7 @@
 {
-  "version": "1.6.9",
-  "notes": "1.6.9: kernel 1.8.1, 42/42 prompt suite pass, slim installer.",
-  "url": "https://github.com/jinrun888/w-tools/releases/download/v1.6.9/Witch-Setup-1.6.9.exe",
-  "sha256": "569AA58D54C7A0F701DBB25B370EFF2F75271CDBB58DD8346A675D53BFD4AE2E",
-  "size": 82850377
+  "version": "1.7.0",
+  "notes": "1.7.0: methodology importer, KB ingest, kernel 1.8.1.",
+  "url": "https://github.com/jinrun888/w-tools/releases/download/v1.7.0/Witch-Setup-1.7.0.exe",
+  "sha256": "5F712E57BA965C0DD564B2FBB8CADB74275D7E73CCD9C22616321E843AB3DEAC",
+  "size": 82937625
 }
