@@ -1,7 +1,7 @@
 {
-  "version": "1.7.1",
-  "notes": "1.7.1: KB-first kernel 1.9.1, citation required, methodology importer.",
-  "url": "https://github.com/jinrun888/w-tools/releases/download/v1.7.1/Witch-Setup-1.7.1.exe",
-  "sha256": "7FDE02F12E3CBCCD5E71A1D4F7204EAB316D9FB18C43EA1E94427EBAF253B029",
-  "size": 82944098
+  "version": "1.7.2",
+  "notes": "1.7.2: update feed fallback (jsDelivr / fastly / raw).",
+  "url": "https://github.com/jinrun888/w-tools/releases/download/v1.7.2/Witch-Setup-1.7.2.exe",
+  "sha256": "D35A1E3BB0C7C77732FD0CE34187F23692C4AE68FA23796F7B7CCB6BA7F2C116",
+  "size": 82944224
 }
