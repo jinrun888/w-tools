@@ -1,7 +1,7 @@
 {
-  "version": "1.6.8",
-  "notes": "1.6.8: single instance, built-in feed, KB install page, slim installer (79MB).",
-  "url": "https://github.com/jinrun888/w-tools/releases/download/v1.6.8/Witch-Setup-1.6.8.exe",
-  "sha256": "6739C44F36AF3C3E4C2A9D738D7A02D124C361416BB3C1415DD618ACE7BA69D6",
-  "size": 82845649
+  "version": "1.6.9",
+  "notes": "1.6.9: kernel 1.8.1, 42/42 prompt suite pass, slim installer.",
+  "url": "https://github.com/jinrun888/w-tools/releases/download/v1.6.9/Witch-Setup-1.6.9.exe",
+  "sha256": "569AA58D54C7A0F701DBB25B370EFF2F75271CDBB58DD8346A675D53BFD4AE2E",
+  "size": 82850377
 }
