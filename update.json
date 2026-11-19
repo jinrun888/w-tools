@@ -1,7 +1,7 @@
 {
-  "version": "1.7.6",
-  "notes": "1.7.6: npm logs to writable dir, real error reason in dialog, one-click log copy.",
-  "url": "https://github.com/jinrun888/w-tools/releases/download/v1.7.6/Witch-Setup-1.7.6.exe",
-  "sha256": "C3256CF3FE54F1678047C3CEEADCD89EF651B12BB529DDDA7CE17D20DE831F73",
-  "size": 82957932
+  "version": "1.7.7",
+  "notes": "1.7.7: pnpm store/sqlite crash -> junction fallback, store under writable dir.",
+  "url": "https://github.com/jinrun888/w-tools/releases/download/v1.7.7/Witch-Setup-1.7.7.exe",
+  "sha256": "FC96F7ADCCC35404CA0B8A1CE7A0FF62C46C8122BDC39E80EA8CB187C03B1F30",
+  "size": 82959315
 }
