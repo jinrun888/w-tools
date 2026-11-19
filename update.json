@@ -1,7 +1,7 @@
 {
-  "version": "1.7.4",
-  "notes": "1.7.4: MCP and knowledge base install verified end-to-end (17/17), kernel 1.9.1.",
-  "url": "https://github.com/jinrun888/w-tools/releases/download/v1.7.4/Witch-Setup-1.7.4.exe",
-  "sha256": "DDBA9058B8DAC8881F6044DFC79F7073A8E50BF91CB374AE2920186EB61717B2",
-  "size": 82952835
+  "version": "1.7.5",
+  "notes": "1.7.5: fix npm cache permission error (restricted accounts / non-ASCII user paths).",
+  "url": "https://github.com/jinrun888/w-tools/releases/download/v1.7.5/Witch-Setup-1.7.5.exe",
+  "sha256": "5ACE390D7E2759060CB243E518B77CB7E6DA01BF76A7559E83364809E048B728",
+  "size": 82955263
 }
