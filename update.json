@@ -1,7 +1,7 @@
 {
-  "version": "1.7.2",
-  "notes": "1.7.2: update feed fallback (jsDelivr / fastly / raw).",
-  "url": "https://github.com/jinrun888/w-tools/releases/download/v1.7.2/Witch-Setup-1.7.2.exe",
-  "sha256": "D35A1E3BB0C7C77732FD0CE34187F23692C4AE68FA23796F7B7CCB6BA7F2C116",
-  "size": 82944224
+  "version": "1.7.3",
+  "notes": "1.7.3: cache-busting update feed check.",
+  "url": "https://github.com/jinrun888/w-tools/releases/download/v1.7.3/Witch-Setup-1.7.3.exe",
+  "sha256": "F69673EDC6DC29E5737083B2B9A77063B5674AA3A78F567BC717EBD5A1D1CD87",
+  "size": 82944307
 }
