@@ -1,7 +1,7 @@
 {
-  "version": "1.7.3",
-  "notes": "1.7.3: cache-busting update feed check.",
-  "url": "https://github.com/jinrun888/w-tools/releases/download/v1.7.3/Witch-Setup-1.7.3.exe",
-  "sha256": "F69673EDC6DC29E5737083B2B9A77063B5674AA3A78F567BC717EBD5A1D1CD87",
-  "size": 82944307
+  "version": "1.7.4",
+  "notes": "1.7.4: MCP and knowledge base install verified end-to-end (17/17), kernel 1.9.1.",
+  "url": "https://github.com/jinrun888/w-tools/releases/download/v1.7.4/Witch-Setup-1.7.4.exe",
+  "sha256": "DDBA9058B8DAC8881F6044DFC79F7073A8E50BF91CB374AE2920186EB61717B2",
+  "size": 82952835
 }
