@@ -1,0 +1,52 @@
+{
+  "name": "witch-armor",
+  "version": "1.9.2",
+  "description": "Witch破甲：DSH 本地破甲插件，三段式系统提示词注入 + 输入框徽章（鲸娘图标）",
+  "license": "CC-BY-NC-SA-4.0",
+  "type": "module",
+  "main": "./index.js",
+  "icon": "./icon.png",
+  "exports": {
+    ".": "./index.js",
+    "./client": "./client.js",
+    "./client.js": "./client.js",
+    "./locale/*.json": "./locale/*.json",
+    "./icon": "./icon.png",
+    "./cordis.patch.yml": "./cordis.patch.yml",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "index.js",
+    "client.js",
+    "icon.png",
+    "cordis.patch.yml",
+    "locale",
+    "prompts",
+    "assets",
+    "scripts",
+    "tests",
+    "install.ps1",
+    "uninstall.ps1",
+    "点我一键注入.bat",
+    "点我一键卸载.bat",
+    "README.md"
+  ],
+  "scripts": {
+    "harness:check": "node --check index.js && node --check client.js",
+    "build:client": "node scripts/build-client.mjs",
+    "verify": "node scripts/verify_plugin.mjs"
+  },
+  "dsh": {
+    "id": "witch-armor",
+    "name": "Witch破甲",
+    "version": "1.9.2",
+    "permissions": "系统提示词注入, 客户端状态条",
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "platform": "web",
+      "immediately": true
+    }
+  }
+}
