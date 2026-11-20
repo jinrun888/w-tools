@@ -1,7 +1,12 @@
-﻿{
-    "sha256":  "E3181114BE7417935246EA36B2D78C2135A967CA7BE48522EB00B8A6FEF50339",
-    "url":  "https://github.com/jinrun888/w-tools/releases/download/v1.7.12/Witch-Setup-1.7.12.exe",
-    "version":  "1.7.12",
-    "size":  114454387,
-    "notes":  "1.7.12: plugin 1.9.2 — fix garbled badge text, tolerate missing prompt files, never crash on load."
+{
+  "version": "1.7.13",
+  "notes": "1.7.13: download full 63k knowledge base in-app (645 MB) + thin-KB hint.",
+  "url": "https://github.com/jinrun888/w-tools/releases/download/v1.7.13/Witch-Setup-1.7.13.exe",
+  "sha256": "94B78008502B515BCF22266D1AB46BD89A6B5DCE5B9F062D6EEEDCCC6A659B71",
+  "size": 114455277,
+  "kb": {
+    "url": "https://github.com/jinrun888/w-tools/releases/download/v1.7.12/LocalKnowledge-v1.1-Windows-x64.zip",
+    "size": 676967298,
+    "sha256": "2040EE85A38ABADD7A7FDFB9748082F0C2EEF8DE2E192E250EAD903D98B2065E"
+  }
 }
