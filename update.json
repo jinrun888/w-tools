@@ -1,7 +1,7 @@
-{
-  "version": "1.7.11",
-  "notes": "1.7.11: update check reads GitHub API (no CDN cache lag) + bundled MCP deps.",
-  "url": "https://github.com/jinrun888/w-tools/releases/download/v1.7.11/Witch-Setup-1.7.11.exe",
-  "sha256": "0A7F3D03CC0C66B2E9437E54313854B8295D1830E19ED7BCB04CE91A1D7C198A",
-  "size": 114430928
+﻿{
+    "sha256":  "E3181114BE7417935246EA36B2D78C2135A967CA7BE48522EB00B8A6FEF50339",
+    "url":  "https://github.com/jinrun888/w-tools/releases/download/v1.7.12/Witch-Setup-1.7.12.exe",
+    "version":  "1.7.12",
+    "size":  114454387,
+    "notes":  "1.7.12: plugin 1.9.2 — fix garbled badge text, tolerate missing prompt files, never crash on load."
 }
