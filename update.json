@@ -1,9 +1,9 @@
 {
-  "version": "1.7.13",
-  "notes": "1.7.13: download full 63k knowledge base in-app (645 MB) + thin-KB hint.",
-  "url": "https://github.com/jinrun888/w-tools/releases/download/v1.7.13/Witch-Setup-1.7.13.exe",
-  "sha256": "94B78008502B515BCF22266D1AB46BD89A6B5DCE5B9F062D6EEEDCCC6A659B71",
-  "size": 114455277,
+  "version": "1.7.14",
+  "notes": "1.7.14: KB auto-download when kb-pack missing, tar extraction (9s), readable extract errors.",
+  "url": "https://github.com/jinrun888/w-tools/releases/download/v1.7.14/Witch-Setup-1.7.14.exe",
+  "sha256": "AE439A8BE5DA4C0510A0D41556D1E0151FBEF2369A6014D7FCAD575A9A126517",
+  "size": 114457871,
   "kb": {
     "url": "https://github.com/jinrun888/w-tools/releases/download/v1.7.12/LocalKnowledge-v1.1-Windows-x64.zip",
     "size": 676967298,
