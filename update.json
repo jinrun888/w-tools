@@ -1,11 +1,12 @@
 {
-  "version": "1.7.14",
-  "notes": "1.7.14: KB auto-download when kb-pack missing, tar extraction (9s), readable extract errors.",
-  "url": "https://github.com/jinrun888/w-tools/releases/download/v1.7.14/Witch-Setup-1.7.14.exe",
-  "sha256": "AE439A8BE5DA4C0510A0D41556D1E0151FBEF2369A6014D7FCAD575A9A126517",
-  "size": 114457871,
+  "version": "1.7.16",
+  "notes": "1.7.16: install works without Node.js, KB download mirror support.",
+  "url": "https://github.com/jinrun888/w-tools/releases/download/v1.7.16/Witch-Setup-1.7.16.exe",
+  "sha256": "5FDE7704500F1059423FC4E5F7A7BD1702FCB38D36944F0F30DB804BAF01E738",
+  "size": 114460336,
   "kb": {
     "url": "https://github.com/jinrun888/w-tools/releases/download/v1.7.12/LocalKnowledge-v1.1-Windows-x64.zip",
+    "urls": [],
     "size": 676967298,
     "sha256": "2040EE85A38ABADD7A7FDFB9748082F0C2EEF8DE2E192E250EAD903D98B2065E"
   }
