@@ -1,13 +1,15 @@
 {
-  "version": "1.7.17",
-  "notes": "1.7.17: knowledge base bundled again (offline, no 645MB download).",
-  "url": "https://github.com/jinrun888/w-tools/releases/download/v1.7.17/Witch-Setup-1.7.17.exe",
-  "sha256": "51D2379AA6D1DB0514F8CB21F3F7D73AA411772F76F91CC107BF8FCB377787CB",
-  "size": 787839942,
-  "kb": {
-    "url": "https://github.com/jinrun888/w-tools/releases/download/v1.7.12/LocalKnowledge-v1.1-Windows-x64.zip",
-    "urls": [],
-    "size": 676967298,
-    "sha256": "2040EE85A38ABADD7A7FDFB9748082F0C2EEF8DE2E192E250EAD903D98B2065E"
-  }
+    "size":  787847980,
+    "version":  "1.7.18",
+    "kb":  {
+               "url":  "https://github.com/jinrun888/w-tools/releases/download/v1.7.12/LocalKnowledge-v1.1-Windows-x64.zip",
+               "urls":  [
+
+                        ],
+               "size":  676967298,
+               "sha256":  "2040EE85A38ABADD7A7FDFB9748082F0C2EEF8DE2E192E250EAD903D98B2065E"
+           },
+    "sha256":  "2709A349A3C745F669181BDD02D6BBABF1CE696E238A869FB3EF3148803A2997",
+    "url":  "https://github.com/jinrun888/w-tools/releases/download/v1.7.18/Witch-Setup-1.7.18.exe",
+    "notes":  "1.7.18: kernel 1.9.5, zoom-safe UI, KB install/download logs."
 }
