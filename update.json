@@ -1,6 +1,6 @@
 {
-    "size":  787854766,
-    "version":  "1.7.20",
+    "size":  787858246,
+    "version":  "1.7.21",
     "kb":  {
                "url":  "https://github.com/jinrun888/w-tools/releases/download/v1.7.12/LocalKnowledge-v1.1-Windows-x64.zip",
                "urls":  [
@@ -9,7 +9,7 @@
                "size":  676967298,
                "sha256":  "2040EE85A38ABADD7A7FDFB9748082F0C2EEF8DE2E192E250EAD903D98B2065E"
            },
-    "sha256":  "4338B430D7349E9A6C93978B8A6DB246E0DAD9EF9E35D1F9E896EBDDCB178292",
-    "url":  "https://github.com/jinrun888/w-tools/releases/download/v1.7.20/Witch-Setup-1.7.20.exe",
-    "notes":  "1.7.20: kernel 1.9.6 - no batch audit, silent skip, no self-reference."
+    "sha256":  "A85A096A29A5BFAB3B4DCE56C2AA0BC5618E3F357161FA11AC87BFCF84322070",
+    "url":  "https://github.com/jinrun888/w-tools/releases/download/v1.7.21/Witch-Setup-1.7.21.exe",
+    "notes":  "1.7.21: kernel 1.9.8 (no verdict answering), KB bundled, zoom-safe UI."
 }
