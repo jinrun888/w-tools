@@ -1,6 +1,6 @@
 {
-    "size":  787864792,
-    "version":  "1.7.29",
+    "size":  787868067,
+    "version":  "1.7.30",
     "kb":  {
                "url":  "https://github.com/jinrun888/w-tools/releases/download/v1.7.12/LocalKnowledge-v1.1-Windows-x64.zip",
                "urls":  [
@@ -9,7 +9,7 @@
                "size":  676967298,
                "sha256":  "2040EE85A38ABADD7A7FDFB9748082F0C2EEF8DE2E192E250EAD903D98B2065E"
            },
-    "sha256":  "7DFCD74A275AEC3002B91F7EFE7851EE0C752235BBB395550A9FA46B5A6D2400",
-    "url":  "https://github.com/jinrun888/w-tools/releases/download/v1.7.29/Witch-Setup-1.7.29.exe",
-    "notes":  "1.7.29: boost startup state fix + top-bar 鸡血 ON/OFF pill."
+    "sha256":  "2FD367C66A8E1618D1FDE7C4FFC37C1ACE851406D236EBE73698CA757BE355DF",
+    "url":  "https://github.com/jinrun888/w-tools/releases/download/v1.7.30/Witch-Setup-1.7.30.exe",
+    "notes":  "1.7.30: plain-language mode (看懂 AI 在做什么) + boost mode, both toggles with top-bar pills."
 }
