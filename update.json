@@ -1,6 +1,6 @@
 {
-    "size":  787858349,
-    "version":  "1.7.22",
+    "size":  787861885,
+    "version":  "1.7.24",
     "kb":  {
                "url":  "https://github.com/jinrun888/w-tools/releases/download/v1.7.12/LocalKnowledge-v1.1-Windows-x64.zip",
                "urls":  [
@@ -9,7 +9,7 @@
                "size":  676967298,
                "sha256":  "2040EE85A38ABADD7A7FDFB9748082F0C2EEF8DE2E192E250EAD903D98B2065E"
            },
-    "sha256":  "29CC5E8EA2989C15375C9AB89A5889E6EE079E31A5B104F34125F3722798DA16",
-    "url":  "https://github.com/jinrun888/w-tools/releases/download/v1.7.22/Witch-Setup-1.7.22.exe",
-    "notes":  "1.7.22: kernel 1.9.8 payload, no verdict answering."
+    "sha256":  "DEFCFB5818E5B4A84349671C0670A25A007BD33390ACE55734B06BD60F93AFDF",
+    "url":  "https://github.com/jinrun888/w-tools/releases/download/v1.7.24/Witch-Setup-1.7.24.exe",
+    "notes":  "1.7.24: kernel 1.9.9 - boost mode toggle (unlimited token budget, max effort)."
 }
