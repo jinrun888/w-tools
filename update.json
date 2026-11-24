@@ -1,6 +1,6 @@
 {
-    "size":  787861885,
-    "version":  "1.7.24",
+    "size":  787861994,
+    "version":  "1.7.25",
     "kb":  {
                "url":  "https://github.com/jinrun888/w-tools/releases/download/v1.7.12/LocalKnowledge-v1.1-Windows-x64.zip",
                "urls":  [
@@ -9,7 +9,7 @@
                "size":  676967298,
                "sha256":  "2040EE85A38ABADD7A7FDFB9748082F0C2EEF8DE2E192E250EAD903D98B2065E"
            },
-    "sha256":  "DEFCFB5818E5B4A84349671C0670A25A007BD33390ACE55734B06BD60F93AFDF",
-    "url":  "https://github.com/jinrun888/w-tools/releases/download/v1.7.24/Witch-Setup-1.7.24.exe",
-    "notes":  "1.7.24: kernel 1.9.9 - boost mode toggle (unlimited token budget, max effort)."
+    "sha256":  "B6B8C6BE3C315E3D3BA7CBC7037A243350744D72D79ED3683E1844F347B94057",
+    "url":  "https://github.com/jinrun888/w-tools/releases/download/v1.7.25/Witch-Setup-1.7.25.exe",
+    "notes":  "1.7.25: boost mode toggle on armor page."
 }
