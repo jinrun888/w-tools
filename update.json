@@ -1,6 +1,6 @@
 {
-    "size":  787869722,
-    "version":  "1.7.33",
+    "size":  787869959,
+    "version":  "1.7.34",
     "kb":  {
                "url":  "https://github.com/jinrun888/w-tools/releases/download/v1.7.12/LocalKnowledge-v1.1-Windows-x64.zip",
                "urls":  [
@@ -9,7 +9,7 @@
                "size":  676967298,
                "sha256":  "2040EE85A38ABADD7A7FDFB9748082F0C2EEF8DE2E192E250EAD903D98B2065E"
            },
-    "sha256":  "2A6AF932F7C7AD64BA77CA474DF2815D9804E33FEB6C2A9FEA5B9697D07C29CB",
-    "url":  "https://github.com/jinrun888/w-tools/releases/download/v1.7.33/Witch-Setup-1.7.33.exe",
-    "notes":  "1.7.33: iOS-style sliders (鸡血/通俗), BOM-tolerant state files."
+    "sha256":  "A0BFB64C2DEABB0345E98D7AD332A78DF51EE3974EA734474E769CA2641DD9EE",
+    "url":  "https://github.com/jinrun888/w-tools/releases/download/v1.7.34/Witch-Setup-1.7.34.exe",
+    "notes":  "1.7.34: mode state logged at startup, focus refresh, BOM tolerant, slider switches."
 }
