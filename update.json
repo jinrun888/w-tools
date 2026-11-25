@@ -1,6 +1,6 @@
 {
-    "size":  787869959,
-    "version":  "1.7.34",
+    "size":  787877191,
+    "version":  "1.7.35",
     "kb":  {
                "url":  "https://github.com/jinrun888/w-tools/releases/download/v1.7.12/LocalKnowledge-v1.1-Windows-x64.zip",
                "urls":  [
@@ -9,7 +9,7 @@
                "size":  676967298,
                "sha256":  "2040EE85A38ABADD7A7FDFB9748082F0C2EEF8DE2E192E250EAD903D98B2065E"
            },
-    "sha256":  "A0BFB64C2DEABB0345E98D7AD332A78DF51EE3974EA734474E769CA2641DD9EE",
-    "url":  "https://github.com/jinrun888/w-tools/releases/download/v1.7.34/Witch-Setup-1.7.34.exe",
-    "notes":  "1.7.34: mode state logged at startup, focus refresh, BOM tolerant, slider switches."
+    "sha256":  "A48313D40311059CBE3016300A7FD911C62E14D9C31B5E65FF82F015683F0360",
+    "url":  "https://github.com/jinrun888/w-tools/releases/download/v1.7.35/Witch-Setup-1.7.35.exe",
+    "notes":  "1.7.35: badge shows 鸡血/通俗 chips; projection keeps mode state."
 }
