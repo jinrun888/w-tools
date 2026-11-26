@@ -1,9 +1,9 @@
 {
-  "version": "1.7.36",
-  "notes": "1.7.36: plugin kernel 1.10.1 auto-sync on launch; 鸡血/通俗 chips now render on the DSH badge.",
-  "url": "https://github.com/jinrun888/w-tools/releases/download/v1.7.36/Witch-Setup-1.7.36.exe",
-  "sha256": "6E3FEDE9DB327116FA41993A9788BAB292F8EB1A8804E55CC249D0523582B331",
-  "size": 787877734,
+  "version": "1.7.37",
+  "notes": "1.7.37: 鸡血模式内置多开智能体规则（拆子任务 / 并行开 Agent / workflow 流水线 / 任务板 / lead 收口）。plugin kernel 1.10.2。",
+  "url": "https://github.com/jinrun888/w-tools/releases/download/v1.7.37/Witch-Setup-1.7.37.exe",
+  "sha256": "920F54CBA58E5322D21FFEBEF447002AC785E3C0A17F4344BFEA81FE3FD0B067",
+  "size": 787878931,
   "kb": {
     "url": "https://github.com/jinrun888/w-tools/releases/download/v1.7.12/LocalKnowledge-v1.1-Windows-x64.zip",
     "urls": [],
