@@ -1,9 +1,9 @@
 {
-  "version": "1.7.37",
-  "notes": "1.7.37: 鸡血模式内置多开智能体规则（拆子任务 / 并行开 Agent / workflow 流水线 / 任务板 / lead 收口）。plugin kernel 1.10.2。",
-  "url": "https://github.com/jinrun888/w-tools/releases/download/v1.7.37/Witch-Setup-1.7.37.exe",
-  "sha256": "920F54CBA58E5322D21FFEBEF447002AC785E3C0A17F4344BFEA81FE3FD0B067",
-  "size": 787878931,
+  "version": "1.7.39",
+  "notes": "1.7.39: 拒绝续跑器（命中拒绝词即自动续跑同一轮）+ 思考层判拒；kernel 1.10.4。",
+  "url": "https://github.com/jinrun888/w-tools/releases/download/v1.7.39/Witch-Setup-1.7.39.exe",
+  "sha256": "507FA9E18817D84280013E1A056D40F948ABB48688DE67D99A2D219DF627D90A",
+  "size": 787883935,
   "kb": {
     "url": "https://github.com/jinrun888/w-tools/releases/download/v1.7.12/LocalKnowledge-v1.1-Windows-x64.zip",
     "urls": [],
